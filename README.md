@@ -9,7 +9,6 @@ I'm using and still learning
 - Python
 - C
 - C++
-- C#
 - Java
 
 And many more ig.
