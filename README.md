@@ -9,6 +9,6 @@ I'm using and still learning
 - Python
 - C
 - C++
-- Java
+- Rust
 
 And many more ig.
