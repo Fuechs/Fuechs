@@ -12,3 +12,8 @@ Working on a programming language. Probably.
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+<br>
+
+![github stats](
+  https://github-readme-stats.vercel.app/api?username=Fuechs&show_icons=true&theme=aura_dark
+)
