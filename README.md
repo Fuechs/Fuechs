@@ -1,14 +1,18 @@
-### Fuechs
+# 🐾 Fuechs
 
-###### Professional dumbass
+**`Software Developer, Student & Guitarist`**
 
-Currently working on several languages.
+Average dumbass almost-developer working on too many projects at once.
+Working on a programming language. Probably.
 
-I'm using and still learning 
+---
 
-- Python
-- C
-- C++
-- Rust
+### Languages
 
-And many more ig.
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+---
