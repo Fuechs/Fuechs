@@ -22,5 +22,5 @@ Working on a programming language. Probably.
 )
 
 ![Top Langs](
-  https://github-readme-stats.vercel.app/api/top-langs/?username=Fuechs&layout=compact
+  https://github-readme-stats.vercel.app/api/top-langs/?username=Fuechs&layout=compact&theme=aura_dark
 )
