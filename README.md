@@ -17,7 +17,7 @@ Working on a programming language. Probably.
 ## Fux
 
 > [`Repository`](https://github.com/Fuechs/Fux) \
-> Programming I am working on\
+> Programming language I am working on\
 > A better alternative for C++
 
 
