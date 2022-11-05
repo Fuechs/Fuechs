@@ -5,15 +5,7 @@
 Average dumbass almost-developer working on too many projects at once.
 Working on a programming language. Probably.
 
-<img align="left" width="45px" src="./assets/python.svg"/>
-<img align="left" width="45px" src="./assets/c.svg"/>
-<img align="left" width="45px" src="./assets/cpp.svg" />
-<img align="left" width="45px" src="./assets/fux.svg" />
-<img align="left" width="45px" src="./assets/java.svg" />
-
-<br>
-<br>
-<br>
+<img width="45px" src="./assets/python.svg"/> <img width="45px" src="./assets/c.svg"/> <img width="45px" src="./assets/cpp.svg" /> <img width="45px" src="./assets/fux.svg" /> <img width="45px" src="./assets/java.svg" />
 
 ## Fux
 
