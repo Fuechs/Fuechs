@@ -5,12 +5,12 @@
 Average dumbass almost-developer working on too many projects at once.
 Working on a programming language. Probably.
 
-<img width="45px" src="./assets/python.svg"/> <img width="45px" src="./assets/c.svg"/> <img width="45px" src="./assets/cpp.svg" /> <img width="45px" src="./assets/fux.svg" /> <img width="45px" src="./assets/java.svg" /> <img width="45px" src="./assets/rust.svg" />
+<img width="45px" src="./assets/c.svg"/> <img width="45px" src="./assets/cpp.svg" /> <img width="45px" src="./assets/fux.svg" />  <img width="45px" src="./assets/rust.svg" /> <img width="45px" src="./assets/java.svg" /> <img width="45px" src="./assets/python.svg"/>
 
 ## Fux
 
 > [`Repository`](https://github.com/Fuechs/Fux) \
-> Programming language I am working on\
+> Programming language I am working on \
 > A better alternative for C++
 
 
