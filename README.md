@@ -5,22 +5,13 @@
 Average dumbass almost-developer working on too many projects at once.
 Working on a programming language. Probably.
 
-<!-- <img width="45px" src="./assets/c.svg"/> <img width="45px" src="./assets/cpp.svg" /> <img width="45px" src="./assets/fux.svg" />  <img width="45px" src="./assets/rust.svg" /> <img width="45px" src="./assets/java.svg" /> <img width="45px" src="./assets/python.svg"/> -->
-
-![C][c-badge]
-![C++][cpp-badge]
-![Rust][rust-badge]
-![Java][java-badge]
-![Python][python-badge] \
-![LLVM][llvm-badge]
-![macOS][macos-badge]
+![](https://skillicons.dev/icons?i=c,cpp,rust,java,py,css,html,git,github,vscode,discord&perline=6)
 
 <img width="76px" src="./assets/fux.svg">
 
 > [`Repository`](https://github.com/Fuechs/Fux) \
 > Programming language I am working on \
 > A better alternative for C++
-
 
 ## Stats
 
