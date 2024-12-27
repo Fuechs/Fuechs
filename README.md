@@ -15,9 +15,9 @@ Writing or learning another programming language. Probably.
 - **[Eisdrache](https://github.com/fuechs/eisdrache)** \
     Custom wrapper for the LLVM API in C++.
     ![C++][cpp-badge] ![LLVM][llvm-badge]
-- **[NotC](https://github.com/fuechs/notc)** \
-    Small programming language that is parsed in Python and run on a vm written in C.
-    ![Python][python-badge] ![C][c-badge]
+- **[Durak](https://github.com/fuechs/durak)** \
+    Durak (Russian: дурак, lit. 'fool') is a traditional Russian card game. 
+    ![Rust][rust-badge]
 
 ### Stats
 
