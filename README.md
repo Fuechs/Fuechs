@@ -1,4 +1,4 @@
-# 🐾&nbsp;&nbsp;Fuechs
+# 🐾&nbsp;&nbsp;Ari
 
 **`Software Developer, Student & Guitarist`**
 
@@ -9,9 +9,6 @@ Writing or learning another programming language. Probably.
 
 ### Current Projects
 
-- **[Fux](https://github.com/fuechs/fux)** \
-    Fux is a modern and flexible programming language, perfect for use in a variety of domains by both novice and expert developers. 
-    ![C++][cpp-badge] ![LLVM][llvm-badge] 
 - **[Eisdrache](https://github.com/fuechs/eisdrache)** \
     Custom wrapper for the LLVM API in C++.
     ![C++][cpp-badge] ![LLVM][llvm-badge]
