@@ -7,15 +7,6 @@ Writing or learning another programming language. Probably.
 
 ![skillicons.dev](https://skillicons.dev/icons?i=c,cpp,rust,java,py,css,html,git,github,vscode,discord&perline=6)
 
-### Current Projects
-
-- **[Eisdrache](https://github.com/fuechs/eisdrache)** \
-    Custom wrapper for the LLVM API in C++.
-    ![C++][cpp-badge] ![LLVM][llvm-badge]
-- **[Durak](https://github.com/fuechs/durak)** \
-    Durak (Russian: дурак, lit. 'fool') is a traditional Russian card game. 
-    ![Rust][rust-badge]
-
 ### Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Fuechs&show_icons=true&theme=dark)
