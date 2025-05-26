@@ -1,15 +1,4 @@
-# 🐾&nbsp;&nbsp;Ari
-
-**`Software Developer, Student & Guitarist`**
-
-Average developer working on too many projects at once. \
-Writing or learning another programming language. Probably.
-
 ![skillicons.dev](https://skillicons.dev/icons?i=c,cpp,rust,java,py,css,html,git,github,vscode,discord&perline=6)
-
-### Stats
-
-![github stats](https://github-readme-stats.vercel.app/api?username=Fuechs&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuechs&layout=compact&theme=dark)
 
