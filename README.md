@@ -1,4 +1,4 @@
-![skillicons.dev](https://skillicons.dev/icons?i=c,cpp,rust,java,py,css,html,git,github,vscode,discord&perline=6)
+![skillicons.dev](https://skillicons.dev/icons?i=c,cpp,java,py,css,html,github,vscode,clion,discord&perline=5)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuechs&layout=compact&theme=dark)
 
