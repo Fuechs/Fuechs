@@ -7,16 +7,19 @@ Writing or learning another programming language. Probably.
 
 ![skillicons.dev](https://skillicons.dev/icons?i=c,cpp,rust,java,py,css,html,git,github,vscode,discord&perline=6)
 
-### Stats
+## Projects
+
+| Project | Description | Languages |
+|  -   |      -      |    -     |
+| <a href="https://github.com/Fuechs/eisdrache"><img width=200 src="assets/eisdrache-title.png"></a> | LLVM API Wrapper | ![C++][cpp-badge] ![LLVM][llvm-badge]
+| <a href="https://github.com/Fuechs/Lynx"><img width=100 src="assets/lynx-logo-white.png"></a> | Programming language | ![C++][cpp-badge] ![LLVM][llvm-badge]
+| [<h3>Misfire</h3>](https://github.com/Fuechs/Misfire) | Library for generating error messages | ![C++][cpp-badge]
+
+## Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Fuechs&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuechs&layout=compact&theme=dark)
 
-[c-badge]: https://img.shields.io/badge/C-00599C?logo=c&logoColor=white
-[cpp-badge]: https://img.shields.io/badge/C++-1a3b63?logo=cplusplus&logoColor=white
-[rust-badge]: https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white
-[java-badge]: https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white
-[python-badge]: https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54
-[llvm-badge]: https://img.shields.io/badge/LLVM-4c1717?logo=llvm&logoColor=white
-[macos-badge]: https://img.shields.io/badge/Mac%20OS-000000?logo=macos&logoColor=F0F0F0
+[cpp-badge]: https://img.shields.io/badge/C++-1a3b63?logo=cplusplus&logoColor=white&style=for-the-badge
+[llvm-badge]: https://img.shields.io/badge/LLVM-4c1717?logo=llvm&logoColor=white&style=for-the-badge
