@@ -1,9 +1,4 @@
-# 🐾&nbsp;&nbsp;Ari
-
-**`Software Developer, Student & Guitarist`**
-
-Average developer working on too many projects at once. \
-Writing or learning another programming language. Probably.
+# Ari
 
 ![skillicons.dev](https://skillicons.dev/icons?i=c,cpp,java,py,css,html,github,vscode,clion,discord&perline=5)
 
@@ -13,7 +8,7 @@ Writing or learning another programming language. Probably.
 |    -    |      -      |     -     |
 | <a href="https://github.com/Fuechs/eisdrache"><img width=200 src="assets/eisdrache-title.png"></a> | LLVM API Wrapper | ![C++][cpp-badge] ![LLVM][llvm-badge]
 | <a href="https://github.com/Fuechs/Lynx"><img width=100 src="assets/lynx-logo-white.png"></a> | Programming language | ![C++][cpp-badge] ![LLVM][llvm-badge]
-| <a href="https://github.com/Fuechs/Misfire"><h3>Misfire</h3></a>| Library for generating error messages | ![C++][cpp-badge]
+| <a href="https://github.com/Fuechs/Misfire"><h3>Misfire</h3></a> | Library for generating error messages | ![C++][cpp-badge]
 
 ## Stats
 
