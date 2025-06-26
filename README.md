@@ -6,7 +6,7 @@
 
 | Project | Description | Languages |
 |    -    |      -      |     -     |
-| <a href="https://github.com/Fuechs/eisdrache"><img width=200 src="assets/eisdrache-title.png"></a> | LLVM API Wrapper | ![C++][cpp-badge] ![LLVM][llvm-badge]
+| <a href="https://github.com/Fuechs/wyvern"><img width=200 src="assets/wyvern-banner.jpg"></a> | LLVM API Wrapper | ![C++][cpp-badge] ![LLVM][llvm-badge]
 | <a href="https://github.com/Fuechs/Lynx"><img width=100 src="assets/lynx-logo-white.png"></a> | Programming language | ![C++][cpp-badge] ![LLVM][llvm-badge]
 | <a href="https://github.com/Fuechs/Misfire"><h3>Misfire</h3></a> | Library for generating error messages | ![C++][cpp-badge]
 
